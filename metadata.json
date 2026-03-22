@@ -1,0 +1,5 @@
+{
+  "name": "BrutalSMP Official",
+  "description": "The official dashboard for BrutalSMP Minecraft Server. Supporting Java 1.20+ and Bedrock 1.21.111+ (Latest). Check status, player count, and learn how to claim your land.",
+  "requestFramePermissions": []
+}
