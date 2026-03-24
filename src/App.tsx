@@ -25,7 +25,7 @@ import {
 import { motion, AnimatePresence } from 'motion/react';
 
 const SERVER_IP = 'play.brutalsmp.my.id';
-const SERVER_PORT = 19137;
+const SERVER_PORT = 19133;
 
 const CLAIM_COMMANDS = [
   { cmd: '/trust [player]', desc: 'Give a player permission to build in your claim.' },
