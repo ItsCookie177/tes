@@ -63,7 +63,7 @@ export default function App() {
   const fetchStatus = useCallback(async () => {
     try {
       setLoading(true);
-      const response = await fetch(`https://api.mcsrvstat.us/3/play.brutalsmp.my.id:19137`);
+      const response = await fetch(`https://api.mcsrvstat.us/3/premium-host.zenithzz.my.id:19133`);
       if (!response.ok) throw new Error('Failed to fetch server status');
       const data = await response.json();
       setStatus(data);
